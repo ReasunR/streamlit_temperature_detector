@@ -14,14 +14,19 @@
    cd streamlit_temperature_detector
    ```
 
-2. **Activate the virtual environment** (already created):
+2. **Create a virtual environment**:
+   ```bash
+   python -m venv venv
+   ```
+
+3. **Activate the virtual environment**:
    ```bash
    source venv/bin/activate  # On macOS/Linux
    # or
    venv\Scripts\activate     # On Windows
    ```
 
-3. **Install dependencies** (already installed):
+4. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
