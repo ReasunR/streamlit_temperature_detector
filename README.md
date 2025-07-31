@@ -32,10 +32,14 @@
    ```
 
 ### Running the Application
+0. **Run PyQT
+   ```bash
+   python app_pyqt.py
+   ```
 
-1. **Start the Streamlit application**:
+2. **Start the Streamlit application**:
    ```bash
    streamlit run app.py
    ```
 
-2. **Open your web browser** and navigate to the displayed URL (typically `http://localhost:8501`) 
+3. **Open your web browser** and navigate to the displayed URL (typically `http://localhost:8501`) 
