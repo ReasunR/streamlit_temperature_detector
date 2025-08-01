@@ -32,14 +32,20 @@
    ```
 
 ### Running the Application
-0. **Run PyQT
+
+1. Run PySide File
+   ```bash
+   python app_pyside_two_stations.py
+   ```
+
+1. **Run PyQT File
    ```bash
    python app_pyqt.py
    ```
 
-1. **Or Start the Streamlit application**:
+2. **Or Start the Streamlit application**:
    ```bash
    streamlit run app_streamlit.py
    ```
 
-2. **Open your web browser** and navigate to the displayed URL (typically `http://localhost:8501`) 
+3. **Open your web browser** and navigate to the displayed URL (typically `http://localhost:8501`) 
