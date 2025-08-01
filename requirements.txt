@@ -4,3 +4,4 @@ plotly
 pandas
 PyQt5
 matplotlib 
+PySide6
