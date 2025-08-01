@@ -33,12 +33,12 @@
 
 ### Running the Application
 
-1. Run PySide File
+1. **Run PySide File**:
    ```bash
    python app_pyside_two_stations.py
    ```
 
-1. **Run PyQT File
+1. **Run PyQT File**:
    ```bash
    python app_pyqt.py
    ```
